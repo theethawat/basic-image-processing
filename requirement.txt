@@ -10,3 +10,4 @@ hiddenlayer
 ultralytics
 opencv-python
 pandas
+labelme
