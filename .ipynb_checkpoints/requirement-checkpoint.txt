@@ -1,0 +1,13 @@
+scikit-image
+matplotlib
+numpy 
+tensorflow
+scikit-learn
+torch
+torchvision
+graphviz
+hiddenlayer
+ultralytics
+opencv-python
+pandas
+labelme

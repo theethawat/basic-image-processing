@@ -6,3 +6,4 @@ data/cifar-10-python.tar.gz
 yolov8n.pt
 pfd-dataset
 __pycache__/
+detectron2/
