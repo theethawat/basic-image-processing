@@ -7,3 +7,5 @@ yolov8n.pt
 pfd-dataset
 __pycache__/
 detectron2/
+cat-dataset/
+output/
